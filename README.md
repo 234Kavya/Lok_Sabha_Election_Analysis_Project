@@ -1,14 +1,14 @@
-##Lok Sabha Election Data Analysis (2004-2024)
+## Lok Sabha Election Data Analysis (2004-2024)
 
 [Data set](https://docs.google.com/spreadsheets/d/1ozqFX6grhaqdtqz7mZNcOW6U22BxfKZw_G9nCDaUkIE/edit?gid=0#gid=0)
 
 [Log File](https://docs.google.com/document/d/1bOiRq6QTvhHGEaHlrkQC8Ql5yMkp3RIDQSEg9QJAxQw/edit?usp=sharing)
 
 
-#Project Overview
+# Project Overview
 This project aims to analyze and visualize the Lok Sabha election data from 2004 to 2024. The dataset includes detailed information about each parliamentary constituency (PC) across multiple election years, covering various aspects such as voter turnout, winning margins, party performance, and demographic representation.
 
-#Dataset Description
+# Dataset Description
 The dataset contains information for each parliamentary constituency (PC) over five election years (2004, 2009, 2014, 2019, 2024). Below are the key columns in the dataset:
 
 PC Name: Name of the Parliamentary Constituency.
