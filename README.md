@@ -4,6 +4,8 @@
 
 [Log File](https://docs.google.com/document/d/1bOiRq6QTvhHGEaHlrkQC8Ql5yMkp3RIDQSEg9QJAxQw/edit?usp=sharing)
 
+Power bi Dashboard
+![all](https://github.com/user-attachments/assets/36642c66-c0eb-4f1b-aa7e-284126a7d3fb)
 
 ## Project Overview
 This project aims to analyze and visualize the Lok Sabha election data from 2004 to 2024. The dataset includes detailed information about each parliamentary constituency (PC) across multiple election years, covering various aspects such as voter turnout, winning margins, party performance, and demographic representation.
